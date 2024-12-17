@@ -1,0 +1,14 @@
+C:\Users\Softcase\Documents\projeto_c#\c#_zero\bin\Debug\net9.0\c#_zero.exe
+C:\Users\Softcase\Documents\projeto_c#\c#_zero\bin\Debug\net9.0\c#_zero.deps.json
+C:\Users\Softcase\Documents\projeto_c#\c#_zero\bin\Debug\net9.0\c#_zero.runtimeconfig.json
+C:\Users\Softcase\Documents\projeto_c#\c#_zero\bin\Debug\net9.0\c#_zero.dll
+C:\Users\Softcase\Documents\projeto_c#\c#_zero\bin\Debug\net9.0\c#_zero.pdb
+C:\Users\Softcase\Documents\projeto_c#\c#_zero\obj\Debug\net9.0\c#_zero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Softcase\Documents\projeto_c#\c#_zero\obj\Debug\net9.0\c#_zero.AssemblyInfoInputs.cache
+C:\Users\Softcase\Documents\projeto_c#\c#_zero\obj\Debug\net9.0\c#_zero.AssemblyInfo.cs
+C:\Users\Softcase\Documents\projeto_c#\c#_zero\obj\Debug\net9.0\c#_zero.csproj.CoreCompileInputs.cache
+C:\Users\Softcase\Documents\projeto_c#\c#_zero\obj\Debug\net9.0\c#_zero.dll
+C:\Users\Softcase\Documents\projeto_c#\c#_zero\obj\Debug\net9.0\refint\c#_zero.dll
+C:\Users\Softcase\Documents\projeto_c#\c#_zero\obj\Debug\net9.0\c#_zero.pdb
+C:\Users\Softcase\Documents\projeto_c#\c#_zero\obj\Debug\net9.0\c#_zero.genruntimeconfig.cache
+C:\Users\Softcase\Documents\projeto_c#\c#_zero\obj\Debug\net9.0\ref\c#_zero.dll
